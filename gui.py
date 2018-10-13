@@ -1,0 +1,16 @@
+import turtle
+turtle.delay(100)
+#turtle.forward(-180)
+#turtle.left(90)
+#turtle.forward(-180)
+#turtle.left(90)
+#turtle.forward(-180)
+#turtle.left(90)
+
+turtle.setheading(200)
+turtle.forward(-100)
+turtle.left(120)
+turtle.forward(-100)
+turtle.left(120)
+turtle.forward(-100)
+turtle.done()
